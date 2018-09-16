@@ -1,4 +1,4 @@
-## Candle Stick Chart
+## Candlestick Chart
 
 From CandleStickChartForDiscontinuousIntraDay
 
